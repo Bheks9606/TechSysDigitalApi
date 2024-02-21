@@ -44,10 +44,10 @@ The controller follows RESTful API conventions.
 Usage Examples:
 
 #To retrieve all musicians:
-GET http://localhost:5000/api/musicians
+GET http://{YourLocalHost}/api/musicians
 
 #To create a new musician:
-POST http://localhost:5000/api/musicians
+POST http://{YourLocalHost}/api/musicians
 
 #Example
 Body: { "name": "John Doe", "stageName": "John D", "bio": "A talented musician", "genre": "Rock" }
