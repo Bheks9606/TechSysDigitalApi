@@ -35,6 +35,14 @@ Returns a 500 status code with an error message in case of internal server error
 Returns a 404 status code if a musician is not found.
 Returns a 400 status code if there are model validation errors.
 
+#Usage
+
+Install the required dependencies.
+
+1. Copy code
+2. Make sure you have Visual Studio IDE
+3. click Build on the top options and press Build solution
+4. Run the application by pressing F5.
 
 #Additional Notes:
 
